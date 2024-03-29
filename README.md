@@ -1,0 +1,2 @@
+# Klubnika-Launcher
+Клубничный лаунчер
